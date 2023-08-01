@@ -1,21 +1,12 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
         "title": "ergweg",
         "text": "rgw",
-        "note_id": "5b12"
+        "id": "5b12"
     },
     {
         "title": "Thomas",
         "text": "hello",
-        "note_id": "d631"
-    },
-    {
-        "title": "Trash",
-        "text": "take out trash today",
-        "note_id": "0573"
+        "id": "d631"
     }
 ]
