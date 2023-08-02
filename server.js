@@ -4,7 +4,7 @@ const apiRoutes = require('./Routes/apiRoute')
 
 
 //setup express
-const PORT = process.env.port || 5100
+const PORT = process.env.PORT || 5100
 const app = express();
 
 // MIDDLEWARE---- setup express app to handle data parsing
