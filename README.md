@@ -15,7 +15,7 @@
 
 ## Description
 
-[Link to Deployed Site on Heroku](https://to-do-list-express-9a349a9545e8.herokuapp.com/notes)
+[Link to Deployed Site on Heroku](https://to-do-list-express-9a349a9545e8.herokuapp.com/)
 
 ![HOME PAGE](./images/to-do-list-express-9a349a9545e8.herokuapp.com_.png)
 ![Notes PAGE](./images/to-do-list-express-9a349a9545e8.herokuapp.com_notes.png)
